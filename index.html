@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Essencial para responsividade -->
+    <link rel="stylesheet" href="style.css">
+    <title>Nostalgia Games</title>
+<style>
+    body {
+        background-image: url('https://i.imgur.com/T2y8EKo.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+    }
+</style>
+</head>
+<body>
+    <!-- Adicione um arquivo de áudio na pasta do projeto, por exemplo: /sound/theme.mp3 -->
+    <audio id="retro-audio" src="/sound/theme.mp3" loop></audio>
+
+    <header>
+        <h1>Nostalgia Games</h1>
+<div>
+    <input type="text" placeholder="Digite o nome de um jogo...">
+    <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+    <select id="filtro-plataforma" onchange="iniciarBusca()">
+        <option value="">Todas as Plataformas</option>
+    </select>
+</div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <!-- <article
+                class="card">
+                <h2>Javascript</h2>
+                <p>1995</p>
+                <p>Javascript é uma linguagem de programação de alto nível.</p>
+                <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Saiba mais</a>
+            </article> -->
+
+            <!-- <article
+                class="card">
+                <h2>Python</h2>
+                <p>1991</p>
+                <p>Python é uma linguagem de programação de alto nível também.</p>
+                <a href="https://docs.python.org/pt-br/3.14">Saiba mais</a>
+            </article> -->
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://alura.com.br">Alura</a>
+            </li>
+           
+        </ul>
+    </footer>
+<script src="script.js"></script>
+
+</body>
+</html>

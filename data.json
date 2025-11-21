@@ -1,0 +1,731 @@
+[
+  {
+    "nome": "Pac-Man",
+    "descricao": "Um dos jogos de arcade mais icônicos, onde o jogador controla Pac-Man em um labirinto, comendo pastilhas e fugindo de fantasmas.",
+    "data_criacao": "1980",
+    "plataforma": "Arcade",
+    "imagem": "https://www.retrogames.cz/games/031/Pac-Man_1.gif",
+    "link": "https://pt.wikipedia.org/wiki/Pac-Man",
+    "tags": [
+      "arcade",
+      "labirinto",
+      "clássico",
+      "ação",
+      "puzzle"
+    ]
+  },
+  {
+    "nome": "Super Mario Bros. 3",
+    "descricao": "Considerado por muitos o auge da série no NES, introduzindo novos power-ups como a Roupa Tanooki e mapas de mundo.",
+    "data_criacao": "1988",
+    "plataforma": "NES",
+    "imagem": "https://www.nintendo-master.com/galerie/upload/data/c9f99956a949a95e334463c28a24037e.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Super_Mario_Bros._3",
+    "tags": [
+      "plataforma",
+      "aventura",
+      "8-bit",
+      "fantasia",
+      "side-scrolling"
+    ]
+  },
+  {
+    "nome": "The Legend of Zelda: Ocarina of Time",
+    "descricao": "Um marco nos jogos 3D, estabelecendo padrões para a jogabilidade de aventura e exploração em mundos abertos.",
+    "data_criacao": "1998",
+    "plataforma": "Nintendo 64",
+    "imagem": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/07/Zelda-Ocarina-of-Time-Link-and-Epona-in-Hyrule-Field.jpg",
+    "link": "https://pt.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+    "tags": [
+      "ação",
+      "aventura",
+      "fantasia",
+      "RPG",
+      "exploração"
+    ]
+  },
+  {
+    "nome": "Chrono Trigger",
+    "descricao": "Um JRPG aclamado por sua narrativa, múltiplos finais e um sistema de combate inovador que combina personagens em ataques duplos e triplos.",
+    "data_criacao": "1995",
+    "plataforma": "SNES",
+    "imagem": "https://www.siliconera.com/wp-content/uploads/2018/02/Chrono-Trigger-PC-2.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Chrono_Trigger",
+    "tags": [
+      "JRPG",
+      "viagem_no_tempo",
+      "RPG_por_turnos",
+      "fantasia",
+      "aventura"
+    ]
+  },
+  {
+    "nome": "Doom",
+    "descricao": "Um dos pais dos jogos de tiro em primeira pessoa (FPS), popularizando gráficos 3D e jogabilidade visceral de combate contra demônios.",
+    "data_criacao": "1993",
+    "plataforma": "PC",
+    "imagem": "https://cdn.mos.cms.futurecdn.net/62b923a2E2f2255743a73a4a4e4143a5-1200-80.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Doom_(1993)",
+    "tags": [
+      "FPS",
+      "tiro",
+      "ação",
+      "ficção_científica",
+      "retro"
+    ]
+  },
+  {
+    "nome": "Street Fighter II",
+    "descricao": "O jogo que revitalizou o gênero de luta nos arcades e consoles, definindo o formato de combate 1 contra 1.",
+    "data_criacao": "1991",
+    "plataforma": "Arcade",
+    "imagem": "https://s2-techtudo.glbimg.com/b-iS2T3yCVgJVVp2f2L2SAk3OKw=/0x0:695x390/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/e/u/1YxYw2Qd2aYySgXhYxYA/ryu-vs-ken-street-fighter-2.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Street_Fighter_II",
+    "tags": [
+      "luta",
+      "arcade",
+      "versus",
+      "ação",
+      "competição"
+    ]
+  },
+  {
+    "nome": "Sonic the Hedgehog 2",
+    "descricao": "O segundo título de Sonic no Genesis, introduzindo o sidekick Tails e popularizando a jogabilidade de alta velocidade.",
+    "data_criacao": "1992",
+    "plataforma": "Sega Genesis",
+    "imagem": "https://i.ytimg.com/vi/5g3ue33A2sU/maxresdefault.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Sonic_the_Hedgehog_2",
+    "tags": [
+      "plataforma",
+      "velocidade",
+      "side-scrolling",
+      "aventura",
+      "ação"
+    ]
+  },
+  {
+    "nome": "Final Fantasy VII",
+    "descricao": "O primeiro da série a utilizar gráficos 3D, sendo fundamental para a popularização dos JRPGs fora do Japão, com foco na história de Cloud Strife.",
+    "data_criacao": "1997",
+    "plataforma": "PlayStation",
+    "imagem": "https://www.denofgeek.com/wp-content/uploads/2022/01/final-fantasy-7-battle.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Final_Fantasy_VII",
+    "tags": [
+      "JRPG",
+      "ficção_científica",
+      "drama",
+      "RPG_por_turnos",
+      "aventura"
+    ]
+  },
+  {
+    "nome": "Tetris",
+    "descricao": "Um clássico atemporal de quebra-cabeça criado na União Soviética, onde o jogador deve encaixar blocos de formas variadas (tetrominós).",
+    "data_criacao": "1984",
+    "plataforma": "PC",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/NES_Tetris_Box_Front.jpg/220px-NES_Tetris_Box_Front.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Tetris",
+    "tags": [
+      "puzzle",
+      "quebra-cabeça",
+      "arcade",
+      "casual",
+      "lógica"
+    ]
+  },
+  {
+    "nome": "Castlevania: Symphony of the Night",
+    "descricao": "Um título fundamental que definiu o gênero Metroidvania, combinando exploração não-linear com elementos de RPG.",
+    "data_criacao": "1997",
+    "plataforma": "PlayStation",
+    "imagem": "https://cdn.arstechnica.net/wp-content/uploads/2017/03/sotn-1.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night",
+    "tags": [
+      "metroidvania",
+      "plataforma",
+      "RPG_de_ação",
+      "exploração",
+      "gótico"
+    ]
+  },
+  {
+    "nome": "StarCraft",
+    "descricao": "Um dos jogos de estratégia em tempo real (RTS) mais influentes, conhecido por seu equilíbrio competitivo entre três raças distintas.",
+    "data_criacao": "1998",
+    "plataforma": "PC",
+    "imagem": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/2g/2G445TGH4U3G1490224221062.jpg",
+    "link": "https://pt.wikipedia.org/wiki/StarCraft",
+    "tags": [
+      "RTS",
+      "estratégia_em_tempo_real",
+      "ficção_científica",
+      "eSports",
+      "PC_gaming"
+    ]
+  },
+  {
+    "nome": "Mega Man 2",
+    "descricao": "Amplamente considerado o melhor da série clássica, aprimorando a fórmula de plataforma e chefes desafiadores.",
+    "data_criacao": "1988",
+    "plataforma": "NES",
+    "imagem": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2019/06/Mega-Man-2-Boss-Select.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Mega_Man_2",
+    "tags": [
+      "plataforma",
+      "ação",
+      "NES",
+      "side-scrolling",
+      "desafio"
+    ]
+  },
+  {
+    "nome": "Donkey Kong",
+    "descricao": "Um jogo de arcade precursor do gênero plataforma, introduzindo personagens icônicos como Donkey Kong e Jumpman (futuro Mario).",
+    "data_criacao": "1981",
+    "plataforma": "Arcade",
+    "imagem": "https://www.arcade-museum.com/images/118/1181242129143.png",
+    "link": "https://pt.wikipedia.org/wiki/Donkey_Kong_(jogo)",
+    "tags": [
+      "arcade",
+      "plataforma",
+      "clássico",
+      "ação",
+      "high_score"
+    ]
+  },
+  {
+    "nome": "Resident Evil 2",
+    "descricao": "Um título de survival horror que aprimorou a fórmula de seu antecessor, apresentando dois protagonistas e uma narrativa ramificada em Raccoon City.",
+    "data_criacao": "1998",
+    "plataforma": "PlayStation",
+    "imagem": "https://www.denofgeek.com/wp-content/uploads/2018/06/resident_evil_2_main.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Resident_Evil_2",
+    "tags": [
+      "survival_horror",
+      "terror",
+      "ação",
+      "puzzle",
+      "aventura"
+    ]
+  },
+  {
+    "nome": "Super Metroid",
+    "descricao": "Um exemplo magistral de design de níveis, focando em exploração atmosférica e obtenção de novas habilidades para progredir.",
+    "data_criacao": "1994",
+    "plataforma": "SNES",
+    "imagem": "https://images.nintendolife.com/screenshots/2516/large.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Super_Metroid",
+    "tags": [
+      "metroidvania",
+      "ação",
+      "exploração",
+      "plataforma",
+      "ficção_científica"
+    ]
+  },
+  {
+    "nome": "Gears of War",
+    "descricao": "Um jogo que popularizou o sistema de cobertura tática em terceira pessoa, conhecido por seus gráficos sombrios e combate intenso contra os Locust.",
+    "data_criacao": "2006",
+    "plataforma": "Xbox 360",
+    "imagem": "https://s.yimg.com/uu/api/res/1.2/0_R.HCoGqSgN2lGgPpxnSg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/digital_trends_973/387089758534807441840e02a0f1304b",
+    "link": "https://pt.wikipedia.org/wiki/Gears_of_War",
+    "tags": [
+      "tiro_em_terceira_pessoa",
+      "ação_tática",
+      "cobertura",
+      "ficção_científica",
+      "shooter"
+    ]
+  },
+  {
+    "nome": "Diablo II",
+    "descricao": "Um RPG de Ação que definiu o gênero 'hack and slash' e estabeleceu o padrão para coleta de itens (loot) e progressão de personagens.",
+    "data_criacao": "2000",
+    "plataforma": "PC",
+    "imagem": "https://images.blz-contentstack.com/v3/assets/blt9c12f249ac15c7ec/blt2a8a624659938a11/6034785442a84944addc4335/DIABLO_II_deDE_Product_image_1.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Diablo_II",
+    "tags": [
+      "RPG_de_ação",
+      "hack_and_slash",
+      "fantasia_sombría",
+      "multiplayer",
+      "PC_gaming"
+    ]
+  },
+  {
+    "nome": "Metal Gear Solid",
+    "descricao": "Um dos pioneiros no gênero stealth 3D, famoso por sua narrativa cinematográfica complexa e foco na infiltração e espionagem.",
+    "data_criacao": "1998",
+    "plataforma": "PlayStation",
+    "imagem": "https://media.gq-magazine.co.uk/photos/5d1396042831324f42f3383f/16:9/w_2560%2Cc_limit/Metal-Gear-Solid-HP.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Metal_Gear_Solid",
+    "tags": [
+      "stealth",
+      "ação",
+      "espião",
+      "ficção_científica",
+      "PS1"
+    ]
+  },
+  {
+    "nome": "Mike Tyson's Punch-Out!!",
+    "descricao": "Um jogo de boxe arcade para NES que exige padrões de memorização e reflexos rápidos para derrotar uma galeria de lutadores excêntricos.",
+    "data_criacao": "1987",
+    "plataforma": "NES",
+    "imagem": "https://i.ytimg.com/vi/zmjPaeQvI9c/maxresdefault.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Punch-Out!!_(jogo_eletr%C3%B4nico)",
+    "tags": [
+      "esporte",
+      "boxe",
+      "puzzle_de_ação",
+      "arcade",
+      "clássico"
+    ]
+  },
+  {
+    "nome": "Half-Life",
+    "descricao": "Um FPS que revolucionou a narrativa do gênero, contando sua história inteiramente através da perspectiva do jogador, sem cutscenes.",
+    "data_criacao": "1998",
+    "plataforma": "PC",
+    "imagem": "https://cdn.mos.cms.futurecdn.net/9AL5kss6s2uJ6a2e2pVTbY.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Half-Life",
+    "tags": [
+      "FPS",
+      "ficção_científica",
+      "ação",
+      "narrativa",
+      "PC_gaming"
+    ]
+  },
+  {
+    "nome": "GoldenEye 007",
+    "descricao": "Um jogo fundamental de tiro em primeira pessoa para console, elogiado por seu modo multiplayer local de tela dividida.",
+    "data_criacao": "1997",
+    "plataforma": "Nintendo 64",
+    "imagem": "https://www.denofgeek.com/wp-content/uploads/2022/08/goldeneye-facility.jpg",
+    "link": "https://pt.wikipedia.org/wiki/GoldenEye_007",
+    "tags": [
+      "FPS",
+      "tiro",
+      "multiplayer",
+      "espionagem",
+      "N64"
+    ]
+  },
+  {
+    "nome": "Grand Theft Auto III",
+    "descricao": "O jogo que transformou a série GTA em um fenômeno 3D de mundo aberto, permitindo liberdade sem precedentes em uma cidade fictícia.",
+    "data_criacao": "2001",
+    "plataforma": "PlayStation 2",
+    "imagem": "https://staticg.sportskeeda.com/editor/2021/09/885a3-16328399999489-800.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Grand_Theft_Auto_III",
+    "tags": [
+      "mundo_aberto",
+      "ação_aventura",
+      "sandbox",
+      "crime",
+      "tiro"
+    ]
+  },
+  {
+    "nome": "Ms. Pac-Man",
+    "descricao": "Uma continuação popular de Pac-Man, introduzindo labirintos variáveis, novos padrões de fantasmas e a primeira protagonista feminina icônica dos games.",
+    "data_criacao": "1981",
+    "plataforma": "Arcade",
+    "imagem": "https://www.retrogames.cz/games/030/Ms.Pac-Man_1.gif",
+    "link": "https://pt.wikipedia.org/wiki/Ms._Pac-Man",
+    "tags": [
+      "arcade",
+      "labirinto",
+      "clássico",
+      "ação",
+      "retro"
+    ]
+  },
+  {
+    "nome": "Portal",
+    "descricao": "Um inovador jogo de puzzle em primeira pessoa onde o jogador resolve quebra-cabeças usando um dispositivo que cria portais interconectados.",
+    "data_criacao": "2007",
+    "plataforma": "PC",
+    "imagem": "https://i.ytimg.com/vi/T7ddp3d2pA4/maxresdefault.jpg",
+    "link": "https://pt.wikipedia.org/wiki/Portal_(jogo_eletr%C3%B4nico)",
+    "tags": [
+      "puzzle",
+      "primeira_pessoa",
+      "ficção_científica",
+      "plataforma",
+      "lógica"
+    ]
+  },
+  {
+    "nome": "The Legend of Zelda: A Link to the Past",
+    "descricao": "Um retorno à perspectiva top-down da série, famoso por seu sistema de dois mundos (Luz e Escuridão) para resolução de puzzles.",
+    "data_criacao": "1991",
+    "plataforma": "SNES",
+    "imagem": "https://www.zeldadungeon.net/wp-content/uploads/2013/10/A-Link-to-the-Past-Walkthrough.jpg",
+    "link": "https://pt.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past",
+    "tags": [
+      "ação_aventura",
+      "fantasia",
+      "RPG_light",
+      "exploração",
+      "SNES"
+    ]
+  },
+  {
+    "nome": "Galaga",
+    "descricao": "Clássico jogo de tiro espacial de arcade onde o jogador controla uma nave para destruir frotas de insetos alienígenas. Sucessor de Galaxian.",
+    "data_criacao": "1981",
+    "plataforma": "Arcade",
+    "imagem": "https://www.retrogames.cz/games/020/Galaga_1.gif",
+    "link": "https://en.wikipedia.org/wiki/Galaga",
+    "tags": [
+      "arcade",
+      "shmup",
+      "tiro",
+      "retrô"
+    ]
+  },
+  {
+    "nome": "Contra",
+    "descricao": "Um run and gun side-scrolling notório por sua dificuldade elevada e o uso do 'Konami Code'.",
+    "data_criacao": "1987",
+    "plataforma": "Arcade",
+    "imagem": "https://www.retrogames.cz/games/012/Contra_1.gif",
+    "link": "https://en.wikipedia.org/wiki/Contra_(video_game)",
+    "tags": [
+      "run and gun",
+      "ação",
+      "plataforma",
+      "cooperativo"
+    ]
+  },
+  {
+    "nome": "F-Zero",
+    "descricao": "Jogo futurista de corrida que utilizou amplamente os recursos do Mode 7 do SNES, estabelecendo um padrão para velocidade em consoles de 16 bits.",
+    "data_criacao": "1990",
+    "plataforma": "SNES",
+    "imagem": "https://images.nintendolife.com/screenshots/2504/large.jpg",
+    "link": "https://en.wikipedia.org/wiki/F-Zero",
+    "tags": [
+      "corrida",
+      "futurista",
+      "sci-fi",
+      "snes"
+    ]
+  },
+  {
+    "nome": "Streets of Rage 2",
+    "descricao": "Considerado um dos melhores beat 'em ups da história, melhorando a jogabilidade, gráficos e trilha sonora do seu antecessor no Sega Genesis.",
+    "data_criacao": "1992",
+    "plataforma": "Sega Genesis",
+    "imagem": "https://www.writeups.org/wp-content/uploads/Axel-Stone-Streets-of-Rage-2-h.jpg",
+    "link": "https://en.wikipedia.org/wiki/Streets_of_Rage_2",
+    "tags": [
+      "beat 'em up",
+      "briga de rua",
+      "ação",
+      "cooperativo",
+      "sega genesis"
+    ]
+  },
+  {
+    "nome": "Quake",
+    "descricao": "Um marco nos jogos de tiro em primeira pessoa 3D, introduzindo gráficos totalmente poligonais e um foco pesado no multiplayer online.",
+    "data_criacao": "1996",
+    "plataforma": "PC",
+    "imagem": "https://i.ytimg.com/vi/gQ4-v5I4y5s/maxresdefault.jpg",
+    "link": "https://en.wikipedia.org/wiki/Quake",
+    "tags": [
+      "fps",
+      "tiro em primeira pessoa",
+      "multiplayer",
+      "computador"
+    ]
+  },
+  {
+    "nome": "Xenogears",
+    "descricao": "Um épico RPG japonês conhecido por sua trama complexa que mistura filosofia, religião e mechas gigantes (Gears).",
+    "data_criacao": "1998",
+    "plataforma": "PlayStation",
+    "imagem": "https://i.ytimg.com/vi/5ddp621i2ew/maxresdefault.jpg",
+    "link": "https://en.wikipedia.org/wiki/Xenogears",
+    "tags": [
+      "rpg",
+      "j-rpg",
+      "ficção científica",
+      "ps1"
+    ]
+  },
+  {
+    "nome": "Banjo-Kazooie",
+    "descricao": "Um influente jogo de plataforma 3D da Rare para Nintendo 64, famoso por sua coleta de itens e design de nível inteligente.",
+    "data_criacao": "1998",
+    "plataforma": "Nintendo 64",
+    "imagem": "https://www.giantbomb.com/a/uploads/scale_small/0/1992/215399-banjo_kazooie.jpg",
+    "link": "https://en.wikipedia.org/wiki/Banjo-Kazooie",
+    "tags": [
+      "plataforma 3d",
+      "aventura",
+      "coletável",
+      "nintendo 64"
+    ]
+  },
+  {
+    "nome": "Marvel vs. Capcom 2: New Age of Heroes",
+    "descricao": "Crossover de luta 3v3 extremamente popular, conhecido por seu ritmo caótico, roster massivo e mecânicas de assistência (assists).",
+    "data_criacao": "2000",
+    "plataforma": "Arcade",
+    "imagem": "https://www.eventhubs.com/images/2011/05/10/marvel-vs-capcom-2-screenshot-01.jpg",
+    "link": "https://en.wikipedia.org/wiki/Marvel_vs._Capcom_2:_New_Age_of_Heroes",
+    "tags": [
+      "luta",
+      "crossover",
+      "arcade",
+      "versus"
+    ]
+  },
+  {
+    "nome": "Shenmue",
+    "descricao": "Um jogo de aventura pioneiro no Dreamcast, criador do termo 'FREE' (Full Reactive Eyes Entertainment) e notável por seu mundo aberto detalhado e QTEs.",
+    "data_criacao": "1999",
+    "plataforma": "Dreamcast",
+    "imagem": "https://i.ytimg.com/vi/M8dgeGHeF-M/maxresdefault.jpg",
+    "link": "https://en.wikipedia.org/wiki/Shenmue",
+    "tags": [
+      "aventura",
+      "mundo aberto",
+      "qte",
+      "drama"
+    ]
+  },
+  {
+    "nome": "Silent Hill 2",
+    "descricao": "Um marco do survival horror psicológico, focado na jornada de James Sunderland em busca de sua esposa falecida na misteriosa cidade de Silent Hill.",
+    "data_criacao": "2001",
+    "plataforma": "PlayStation 2",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/9/9a/Silent_Hill_2_Pyramid_Head.png",
+    "link": "https://en.wikipedia.org/wiki/Silent_Hill_2",
+    "tags": [
+      "survival horror",
+      "terror psicológico",
+      "ps2",
+      "aventura"
+    ]
+  },
+  {
+    "nome": "Super Mario Sunshine",
+    "descricao": "O primeiro jogo 3D de Mario para GameCube, apresentando o F.L.U.D.D., um dispositivo de água que adiciona mecânicas de plataforma e limpeza.",
+    "data_criacao": "2002",
+    "plataforma": "GameCube",
+    "imagem": "https://ssb.wiki.gallery/images/thumb/c/c5/Super-mario-sunshine-3.jpg/1200px-Super-mario-sunshine-3.jpg",
+    "link": "https://en.wikipedia.org/wiki/Super_Mario_Sunshine",
+    "tags": [
+      "plataforma 3d",
+      "aventura",
+      "nintendo",
+      "gamecube"
+    ]
+  },
+  {
+    "nome": "Sid Meier's Civilization IV",
+    "descricao": "Jogo de estratégia 4X baseado em turnos onde o jogador tenta construir um império duradouro desde a Idade da Pedra até a era espacial.",
+    "data_criacao": "2005",
+    "plataforma": "PC",
+    "imagem": "https://cdn.mos.cms.futurecdn.net/e93f3099982420044b8ed46f9543598f.jpg",
+    "link": "https://en.wikipedia.org/wiki/Civilization_IV",
+    "tags": [
+      "estratégia",
+      "4x",
+      "baseado em turnos",
+      "história"
+    ]
+  },
+  {
+    "nome": "Mass Effect",
+    "descricao": "O primeiro título de uma aclamada série de RPG de ação e ficção científica, focado em escolhas morais e combate tático com foco em esquadrão.",
+    "data_criacao": "2007",
+    "plataforma": "Xbox 360",
+    "imagem": "https://cdn.mos.cms.futurecdn.net/a8da2a69744ca338aa3a3f02c423569a.jpg",
+    "link": "https://en.wikipedia.org/wiki/Mass_Effect",
+    "tags": [
+      "rpg de ação",
+      "sci-fi",
+      "terceira pessoa",
+      "xbox 360",
+      "ficção científica"
+    ]
+  },
+  {
+    "nome": "Metroid",
+    "descricao": "Um dos jogos definidores do NES, quebra-cabeça de ação focado na exploração não linear de um planeta alienígena pela caçadora Samus Aran.",
+    "data_criacao": "1986",
+    "plataforma": "NES",
+    "imagem": "https://www.denofgeek.com/wp-content/uploads/2021/09/metroid-nes.jpg",
+    "link": "https://en.wikipedia.org/wiki/Metroid_(video_game)",
+    "tags": [
+      "ação-aventura",
+      "exploração",
+      "plataforma",
+      "nes"
+    ]
+  },
+  {
+    "nome": "Secret of Mana",
+    "descricao": "Um RPG de ação com um sistema de combate em tempo real inovador e a possibilidade de multiplayer cooperativo para até três jogadores.",
+    "data_criacao": "1993",
+    "plataforma": "SNES",
+    "imagem": "https://www.retrogames.cz/games/070/SNES_SecretOfMana_01.png",
+    "link": "https://en.wikipedia.org/wiki/Secret_of_Mana",
+    "tags": [
+      "rpg de ação",
+      "aventura",
+      "cooperativo",
+      "snes"
+    ]
+  },
+  {
+    "nome": "Gunstar Heroes",
+    "descricao": "Um jogo de tiro de ação frenético e visualmente impressionante da Treasure para Sega Genesis, conhecido por seus chefes inventivos.",
+    "data_criacao": "1993",
+    "plataforma": "Sega Genesis",
+    "imagem": "https://i.ytimg.com/vi/j-s2s2mm4hA/maxresdefault.jpg",
+    "link": "https://en.wikipedia.org/wiki/Gunstar_Heroes",
+    "tags": [
+      "run and gun",
+      "shmup",
+      "ação",
+      "sega genesis"
+    ]
+  },
+  {
+    "nome": "Mortal Kombat",
+    "descricao": "O primeiro jogo da série de luta infame, conhecido por seus gráficos digitalizados, violência gráfica e os movimentos de finalização 'Fatalities'.",
+    "data_criacao": "1992",
+    "plataforma": "Arcade",
+    "imagem": "https://i.ytimg.com/vi/yDR33ml0p34/maxresdefault.jpg",
+    "link": "https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)",
+    "tags": [
+      "luta",
+      "arcade",
+      "violência",
+      "versus"
+    ]
+  },
+  {
+    "nome": "SimCity 2000",
+    "descricao": "Sequência do simulador de construção de cidades, introduzindo topografia, sistemas de encanamento, e estruturas futuristas.",
+    "data_criacao": "1993",
+    "plataforma": "PC",
+    "imagem": "https://i.ytimg.com/vi/ACe7j_KxG-c/maxresdefault.jpg",
+    "link": "https://en.wikipedia.org/wiki/SimCity_2000",
+    "tags": [
+      "simulação",
+      "estratégia",
+      "gerenciamento",
+      "computador"
+    ]
+  },
+  {
+    "nome": "Gran Turismo",
+    "descricao": "Um revolucionário simulador de corrida para PlayStation que se destacou por seus gráficos realistas e mecânicas de física detalhadas para a época.",
+    "data_criacao": "1997",
+    "plataforma": "PlayStation",
+    "imagem": "https://www.gran-turismo.com/gtsport/de/news/00_1502429.html",
+    "link": "https://en.wikipedia.org/wiki/Gran_Turismo_(video_game)",
+    "tags": [
+      "simulação",
+      "corrida",
+      "ps1",
+      "esporte"
+    ]
+  },
+  {
+    "nome": "Mario Kart 64",
+    "descricao": "O segundo jogo da série de kart da Nintendo, que introduziu gráficos 3D e popularizou o modo batalha multiplayer.",
+    "data_criacao": "1996",
+    "plataforma": "Nintendo 64",
+    "imagem": "https://i.ytimg.com/vi/C-kYc4i-pGg/maxresdefault.jpg",
+    "link": "https://en.wikipedia.org/wiki/Mario_Kart_64",
+    "tags": [
+      "corrida de kart",
+      "multiplayer",
+      "festa",
+      "nintendo 64"
+    ]
+  },
+  {
+    "nome": "Devil May Cry",
+    "descricao": "Jogo de ação hack and slash que definiu o gênero, conhecido por seu estilo, combate profundo e o protagonista Dante.",
+    "data_criacao": "2001",
+    "plataforma": "PlayStation 2",
+    "imagem": "https://www.syfy.com/sites/syfy/files/2019/03/devil_may_cry_gameplay.jpg",
+    "link": "https://en.wikipedia.org/wiki/Devil_May_Cry",
+    "tags": [
+      "hack and slash",
+      "ação",
+      "combate",
+      "ps2",
+      "aventura"
+    ]
+  },
+  {
+    "nome": "Super Mario Galaxy",
+    "descricao": "Aclamado jogo de plataforma 3D para Wii, conhecido por introduzir a mecânica de gravidade e design de níveis em planetoides esféricos.",
+    "data_criacao": "2007",
+    "plataforma": "Wii",
+    "imagem": "https://cdn.wccftech.com/wp-content/uploads/2017/10/Super-Mario-Galaxy-Wii-U.jpg",
+    "link": "https://en.wikipedia.org/wiki/Super_Mario_Galaxy",
+    "tags": [
+      "plataforma 3d",
+      "aventura",
+      "wii",
+      "nintendo"
+    ]
+  },
+  {
+    "nome": "Super Mario World 2: Yoshi's Island",
+    "descricao": "Um título inovador para SNES que se destacou pelo seu estilo de arte desenhado à mão e mecânicas focadas no personagem Yoshi e Baby Mario.",
+    "data_criacao": "1995",
+    "plataforma": "SNES",
+    "imagem": "https://www.nintendo.com//content/dam/noa/en_US/games/switch/s/super-nintendo-entertainment-system-nintendo-switch-online-switch/super-nintendo-entertainment-system-nintendo-switch-online-switch-hero.jpg",
+    "link": "https://en.wikipedia.org/wiki/Yoshi%27s_Island",
+    "tags": [
+      "plataforma 2d",
+      "side-scrolling",
+      "arte estilizada",
+      "snes"
+    ]
+  },
+  {
+    "nome": "Deus Ex",
+    "descricao": "Um RPG de ação e tiro aclamado por seu design de 'immersive sim', permitindo múltiplas abordagens (combate, stealth, hacking) para resolver missões.",
+    "data_criacao": "2000",
+    "plataforma": "PC",
+    "imagem": "https://www.pcgamesn.com/wp-content/uploads/2018/06/deus-ex-gameplay.jpg",
+    "link": "https://en.wikipedia.org/wiki/Deus_Ex",
+    "tags": [
+      "immersive sim",
+      "rpg",
+      "tiro",
+      "stealth",
+      "ficção científica"
+    ]
+  },
+  {
+    "nome": "Pitfall!",
+    "descricao": "Um dos jogos mais famosos e influentes para o Atari 2600, onde o jogador deve guiar Pitfall Harry através de uma selva cheia de obstáculos.",
+    "data_criacao": "1982",
+    "plataforma": "Atari 2600",
+    "imagem": "https://i.ytimg.com/vi/gYAbfrv5jJ0/maxresdefault.jpg",
+    "link": "https://en.wikipedia.org/wiki/Pitfall!",
+    "tags": [
+      "plataforma",
+      "aventura",
+      "atari 2600",
+      "retrô"
+    ]
+  }
+]
